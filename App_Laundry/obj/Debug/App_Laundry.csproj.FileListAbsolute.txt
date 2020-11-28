@@ -1,0 +1,11 @@
+C:\Users\ACER\source\repos\App_Laundry\App_Laundry\bin\Debug\App_Laundry.exe.config
+C:\Users\ACER\source\repos\App_Laundry\App_Laundry\bin\Debug\App_Laundry.exe
+C:\Users\ACER\source\repos\App_Laundry\App_Laundry\bin\Debug\App_Laundry.pdb
+C:\Users\ACER\source\repos\App_Laundry\App_Laundry\obj\Debug\App_Laundry.csprojAssemblyReference.cache
+C:\Users\ACER\source\repos\App_Laundry\App_Laundry\obj\Debug\App_Laundry.Form1.resources
+C:\Users\ACER\source\repos\App_Laundry\App_Laundry\obj\Debug\App_Laundry.Properties.Resources.resources
+C:\Users\ACER\source\repos\App_Laundry\App_Laundry\obj\Debug\App_Laundry.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\App_Laundry\App_Laundry\obj\Debug\App_Laundry.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\App_Laundry\App_Laundry\obj\Debug\App_Laundry.exe
+C:\Users\ACER\source\repos\App_Laundry\App_Laundry\obj\Debug\App_Laundry.pdb
+C:\Users\ACER\source\repos\App_Laundry\App_Laundry\obj\Debug\App_Laundry.Home.resources
